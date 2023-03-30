@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React the easy way in 4 weeks
+          I am making this change for checkout service
         </a>
       </header>
     </div>
